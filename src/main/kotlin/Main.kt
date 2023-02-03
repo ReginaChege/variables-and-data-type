@@ -1,5 +1,5 @@
 fun main() {
-        var studentDetails = arrayOf("Ann Owoko","Eunice Ngendo","Robert Chege")
+        var studentDetails = arrayOf("Ann","Eunice","Robert")
         println(studentDetails)
         var ages= arrayOf(19,20,23,22)
         println(ages)
@@ -15,6 +15,6 @@ fun main() {
         var student2 = arrayOf("studentDetails(1)","age","phoneNumber","weightkg","citizenshipKenyan")
         var student3 = arrayOf("studentDetails(2)","ages","phoneNumber","weightkg","citizenshipNotKenyan")
 
-clear
+
 
     }
